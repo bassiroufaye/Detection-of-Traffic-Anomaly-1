@@ -1,7 +1,7 @@
 '''
 This is an example for generating dataset object for FOL model training and evalutaion.
 '''
-from dataset.dota import DoTADataset
+from data.dota import DoTADataset
 from config.config import parse_args
 import pdb
 
